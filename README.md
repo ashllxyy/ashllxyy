@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning technologies like ReGex, NumPy, Pandas and will move to ML/DL technologies soon. I draw and play guitar when I'm not coding on my keyboard.
+I'm proficient in technologies like NumPy and Pandas. I'm studying ML right now in python using the sci-kit library. I draw and play guitar when I'm not coding on my keyboard.
 
 
 ## 🌐 Socials:
