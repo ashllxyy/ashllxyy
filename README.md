@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm proficient in technologies like NumPy and Pandas. I'm studying ML right now in python using the sci-kit library. I draw and play guitar when I'm not coding on my keyboard.
+I'm proficient in technologies like NumPy, Pandas and I'm learning Tensorflow and Sci-kit learn right now. I draw and play guitar when I'm not coding on my keyboard.
 
 
 ## 🌐 Socials:
