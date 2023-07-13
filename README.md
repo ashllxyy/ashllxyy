@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![pRINT 2Artboard 1](https://github.com/ashllxyy/ashllxyy/assets/41571000/a9b102e9-3d31-4ce7-b5bf-646eb907ebae)
+![pRINT 2Artboard 1](https://github.com/ashllxyy/ashllxyy/assets/41571000/1da83a05-6914-43d9-a634-a7a69fa3f217)
 
 I'm proficient in technologies like NumPy, PyTorch, Pandas. I'm fascinated by machine learning and deep learning technologies. I draw and play guitar when I'm not coding on my keyboard.
 
