@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm proficient in technologies like NumPy, Pandas and I'm learning Tensorflow and Sci-kit learn right now. I draw and play guitar when I'm not coding on my keyboard.
+
 ![pRINT 2Artboard 1](https://github.com/ashllxyy/ashllxyy/assets/41571000/a9b102e9-3d31-4ce7-b5bf-646eb907ebae)
+
+I'm proficient in technologies like NumPy, PyTorch, Pandas. I'm fascinated by machine learning and deep learning technologies. I draw and play guitar when I'm not coding on my keyboard.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashllxyy#4950) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunesh_u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunesh-unnithan) 
